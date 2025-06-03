@@ -121,7 +121,7 @@ export const Footer = () => {
             className="dark:text-primary-light text-primary hover:underline"
             target="_blank"
             rel="noreferrer noopener"
-            title="Stefan Gogov"
+            title="26DigitalBw"
             href="https://sgogov.dev/"
           >
             Stefan Gogov
